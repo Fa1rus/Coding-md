@@ -1,16 +1,11 @@
 # My Coding Journey 🚀
 
-## What I’ve Learned and Want to Share
+Hello, everyone! 👋  
 
-Hey everyone! 👋  
+This is what I've learned from coding, and I want to share it with everyone.  
+I'm just a beginner programmer, eager to improve myself and grow in the world of programming.  
 
-This repository is a collection of things I’ve learned from coding. As I explore different programming languages, tools, and techniques, I want to document my journey and share it with others who might find it helpful.  
+For now, **C** is the only language I understand, but I'm always learning and exploring new things.  
+I hope this journey will help not only me but also others who are just starting out.  
 
-### Topics Covered  
-- [Pointer](/Fa1rus/Coding-md/blob/main/Pointer.md) -> What is concept of pointer in C language
-
-I believe that learning is a continuous process, and by sharing knowledge, we all grow together. If you're on a similar path, feel free to check out my notes and contribute your own insights!
-
-Happy coding! 🚀 
-
-# Coding-md
+Let's learn together! 💡  
